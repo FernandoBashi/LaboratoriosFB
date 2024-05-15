@@ -1,0 +1,2 @@
+saludo= "Fernando Barrientos-1226323"
+print (saludo)
